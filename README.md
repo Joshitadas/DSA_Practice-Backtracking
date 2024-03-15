@@ -15,4 +15,5 @@
 ---
 ## Miscellaneous 
 - Josephus Problem
+- Sieve of Eratosthenes (prime number less then O(n^2)
 
