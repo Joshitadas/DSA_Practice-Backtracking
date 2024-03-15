@@ -7,6 +7,7 @@
 - 1465 Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
 - Maximum square area of a piece of cake
 - 0/1 Knapsack
+- 322 Coin change
 
 --- 
 ## BackTracking (LeetCode)
