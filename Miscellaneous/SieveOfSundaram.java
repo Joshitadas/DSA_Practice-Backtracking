@@ -1,5 +1,5 @@
 class Solution {
-    // sdot - DAY 3 - sieve of erathosthenes
+    // sdot - DAY 3 - sieve of sundaram
     public int countPrimes(int n) {
         if (n == 0 || n == 1 || n == 2) {
             return 0;
