@@ -5,7 +5,8 @@
 - 62 Unique Paths
 - 72 Edit Distance
 - 1465 Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
-- Maximum square area of a piece of cake 
+- Maximum square area of a piece of cake
+- 0/1 Knapsack
 
 --- 
 ## BackTracking (LeetCode)
