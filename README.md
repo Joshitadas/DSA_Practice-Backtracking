@@ -15,5 +15,6 @@
 ---
 ## Miscellaneous 
 - Josephus Problem
-- Sieve of Eratosthenes (prime number less then O(n^2)
+- Sieve of Eratosthenes O(nloglogn) {Efficient time}
+- Sieve of Sundaram O(nlogn) {Efficient space}
 
