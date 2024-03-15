@@ -15,6 +15,7 @@
 ---
 ## Miscellaneous 
 - Josephus Problem
-- Sieve of Eratosthenes O(nloglogn) {Efficient time}
-- Sieve of Sundaram O(nlogn) {Efficient space}
+- 204 Count Primes
+  - Sieve of Eratosthenes O(nloglogn) {Efficient time}
+  - Sieve of Sundaram O(nlogn) {Efficient space}
 
