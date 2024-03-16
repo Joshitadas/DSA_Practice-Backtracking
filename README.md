@@ -28,6 +28,8 @@
 ## Binary Search Tree
 - Implementation of BST
 - 700 Search in a BST
+- 701 Insert Node in a BST
+- 450 Delete Node in a BST
  
     
 
