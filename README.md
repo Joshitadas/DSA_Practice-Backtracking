@@ -26,7 +26,8 @@
   
  ---
 ## Binary Search Tree
-- 
+- Implementation of BST
+- 700 Search in a BST
  
     
 
